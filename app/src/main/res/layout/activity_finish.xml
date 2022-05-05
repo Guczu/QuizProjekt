@@ -56,7 +56,6 @@
         android:textColor="#000000"
         android:textSize="48px"
         android:textStyle="bold"
-        app:layout_constraintBottom_toTopOf="@+id/button"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView5" />
@@ -79,7 +78,7 @@
         app:layout_constraintTop_toBottomOf="@+id/textView" />
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/button3"
         android:layout_width="184dp"
         android:layout_height="63dp"
         android:layout_marginStart="113dp"
